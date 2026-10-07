@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.local/
+.env
+*.log
+.deck-build/
+.publish/

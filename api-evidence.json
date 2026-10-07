@@ -1,0 +1,22 @@
+[
+  {
+    "check": "SDK analysis endpoint",
+    "status": "passed"
+  },
+  {
+    "check": "Sequential scenario endpoint",
+    "status": "passed"
+  },
+  {
+    "check": "Invalid configuration returns 400",
+    "status": "passed"
+  },
+  {
+    "check": "Untrusted origin is rejected",
+    "status": "passed"
+  },
+  {
+    "check": "Unknown API returns 404",
+    "status": "passed"
+  }
+]
